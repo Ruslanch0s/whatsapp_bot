@@ -2,8 +2,8 @@ from whatsaap import Whatsapp
 
 
 def main():
-    TG_TOKEN = '5629704642:AAFpxYQeZ0KSnMcx7cC-xZ6to0HNkvnkdNM'
-    TG_ADMIN_ID = 364294246
+    TG_TOKEN = 'your_tg_token'
+    TG_ADMIN_ID = 1234
 
     # executable_path = str(Path(cfg.root_path, 'drivers', 'chromedriver-106-m1'))
     # executable_path = ChromeDriverManager().install()
